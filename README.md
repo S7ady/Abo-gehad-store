@@ -8,58 +8,58 @@ Abo gehad Store offers a wide range of home essentials, electronics, school supp
 
 ## Project plan
 
-* Objective
-Enhance Abo Gehad Store’s online presence, increase sales, and improve customer engagement.
+ Objective
+* Enhance Abo Gehad Store’s online presence, increase sales, and improve customer engagement.
 
-* Scope
+Scope
 
-Social media optimization.
+* Social media optimization.
 
-Targeted ad campaigns.
+* Targeted ad campaigns.
 
-Product catalog management.
+* Product catalog management.
 
-Customer interaction and support system.
+* Customer interaction and support system.
 
-* Deliverables
+ Deliverables
 
-Optimized social media pages.
+* Optimized social media pages.
 
-Running ad campaigns with clear metrics.
+* Running ad campaigns with clear metrics.
 
-Product listings online with updated info.
+* Product listings online with updated info.
 
- Monthly performance report.
+* Monthly performance report.
 
-* Timeline
+ Timeline
 
-Week 1: Audit current presence & plan strategy.
+* Week 1: Audit current presence & plan strategy.
 
-Week 2–3: Set up ad campaigns & optimize social media content.
+* Week 2–3: Set up ad campaigns & optimize social media content.
 
-Week 4: Monitor performance & adjust campaigns.
+* Week 4: Monitor performance & adjust campaigns.
 
-* Milestones
+Milestones
 
-Completion of social media audit (End of Week 1).
+* Completion of social media audit (End of Week 1).
 
-Launch of first ad campaign (End of Week 2).
+* Launch of first ad campaign (End of Week 2).
 
-Performance review and optimization (End of Week 4).
+* Performance review and optimization (End of Week 4).
 
-* Resources
+Resources
 
-Social media platforms (Facebook, Instagram).
+* Social media platforms (Facebook, Instagram).
 
-Budget for ads.
+* Budget for ads.
 
-Team: Social media manager, designer, content creator.
+* Team: Social media manager, designer, content creator.
 
 Risks & Mitigation
 
-Low ad engagement → Adjust targeting & creative content.
+* Low ad engagement → Adjust targeting & creative content.
 
-Delayed content delivery → Prepare content in advance.
+* Delayed content delivery → Prepare content in advance.
 
 ## Team Roles
 
