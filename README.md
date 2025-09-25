@@ -9,7 +9,7 @@ An integrated digital marketing project designed to empower distinguished local 
 
 ## Team Roles
 
-1. Youssef Ahmed – Team Leader
+1. Youssef Ahmed (Team Leader)
 
  → Oversees the entire project.
 
@@ -17,7 +17,7 @@ An integrated digital marketing project designed to empower distinguished local 
 
  → Ensures deadlines and goals are met.
 
-2. Shady Mohamed – Social Media Manager
+2. Shady Mohamed (Social Media Manager)
 
  → Manages social media accounts.
 
@@ -25,7 +25,7 @@ An integrated digital marketing project designed to empower distinguished local 
 
  → Analyzes engagement and performance metrics.
 
-3. Islam Ahmed – Designer + Photographer
+3. Islam Ahmed  (Designer + Photographer)
 
  → Creates visual content (images, graphics).
 
@@ -33,7 +33,7 @@ An integrated digital marketing project designed to empower distinguished local 
 
  → Ensures branding is consistent.
 
-4. Mohamed Mahmoud Saafan – Content Writer
+4. Mohamed Mahmoud Saafan (Content Writer)
 
  → Writes product descriptions and posts.
 
@@ -41,7 +41,7 @@ An integrated digital marketing project designed to empower distinguished local 
 
  → Maintains brand voice in all communications.
 
-5. Mohamed Ashraf – Video Editor
+5. Mohamed Ashraf (Video Editor)
 
  → Edits promotional and product videos.
 
