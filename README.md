@@ -63,42 +63,42 @@ Risks & Mitigation
 
 ## Team Roles
 
-- Youssef Ahmed (Team Leader)
+Youssef Ahmed (Team Leader)
 
-Oversees the entire project.
+* Oversees the entire project.
 
-Coordinates tasks and team members.
+* Coordinates tasks and team members.
 
-Ensures deadlines and goals are met.
+* Ensures deadlines and goals are met.
 
-- Shady Mohamed (Social Media Manager)
+Shady Mohamed (Social Media Manager)
 
-Manages social media accounts.
+* Manages social media accounts.
 
-Plans and runs ad campaigns.
+* Plans and runs ad campaigns.
 
-Analyzes engagement and performance metrics.
+* Analyzes engagement and performance metrics.
 
-- Islam Ahmed  (Designer + Photographer)
+Islam Ahmed  (Designer + Photographer)
 
-Creates visual content (images, graphics).
+* Creates visual content (images, graphics).
 
-Takes product and promotional photos.
+* Takes product and promotional photos.
 
-Ensures branding is consistent.
+* Ensures branding is consistent.
 
-- Mohamed Mahmoud Saafan (Content Writer)
+Mohamed Mahmoud Saafan (Content Writer)
 
-Writes product descriptions and posts.
+* Writes product descriptions and posts.
 
-Develops engaging content for campaigns.
+* Develops engaging content for campaigns.
 
-Maintains brand voice in all communications.
+* Maintains brand voice in all communications.
 
-- Mohamed Ashraf (Video Editor)
+Mohamed Ashraf (Video Editor)
 
-Edits promotional and product videos.
+* Edits promotional and product videos.
 
-Adds effects, captions, and music.
+* Adds effects, captions, and music.
 
-Ensures video content is high-quality and engaging.
+* Ensures video content is high-quality and engaging.
