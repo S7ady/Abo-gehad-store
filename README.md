@@ -8,10 +8,10 @@ Abo gehad Store offers a wide range of home essentials, electronics, school supp
 
 ## Project plan
 
- Objective
+* Objective
 Enhance Abo Gehad Store’s online presence, increase sales, and improve customer engagement.
 
- Scope
+* Scope
 
 Social media optimization.
 
@@ -21,7 +21,7 @@ Product catalog management.
 
 Customer interaction and support system.
 
- Deliverables
+* Deliverables
 
 Optimized social media pages.
 
@@ -31,7 +31,7 @@ Product listings online with updated info.
 
  Monthly performance report.
 
-Timeline
+* Timeline
 
 Week 1: Audit current presence & plan strategy.
 
@@ -39,7 +39,7 @@ Week 2–3: Set up ad campaigns & optimize social media content.
 
 Week 4: Monitor performance & adjust campaigns.
 
- Milestones
+* Milestones
 
 Completion of social media audit (End of Week 1).
 
@@ -47,7 +47,7 @@ Launch of first ad campaign (End of Week 2).
 
 Performance review and optimization (End of Week 4).
 
- Resources
+* Resources
 
 Social media platforms (Facebook, Instagram).
 
