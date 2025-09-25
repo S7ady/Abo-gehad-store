@@ -7,7 +7,7 @@ Abo gehad Store offers a wide range of home essentials, electronics, school supp
 
 An integrated digital marketing project designed to empower distinguished local brands like 'Abo Gehad Showrooms'. The project combines building a strong digital presence on social media, creating engaging content, and analyzing audience data to launch targeted advertising campaigns. The project aims to bridge the gap between the true value of the showrooms and their ability to reach a digital audience, with a focus on achieving sustainable sales growth and enhancing customer loyalty.
 
-##Team Roles
+## Team Roles
 
 1. Youssef Ahmed – Team Leader
 
