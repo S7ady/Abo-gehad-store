@@ -1,104 +1,64 @@
 # Abo-gehad-store
 
-## Team 
-Nouvilures
+##Project Idea 
+Abo Gehad is a retail store specialized in selling a wide range of household tools and essentials. The project aims to enhance the store’s brand through a strong visual identity, professional marketing materials, and an improved user experience both in-store and online. The goal is to provide high-quality practical and affordable products while creating a trustworthy and modern shopping experience. 
 
-## Project overview
-Abo gehad Store offers a wide range of home essentials, electronics, school supplies, and gifts — all in one place. Known for quality products, affordable prices, and friendly service, it’s your go-to destination for a convenient and enjoyable shopping experience
+##Team Members  
 
-## Project plan
+ * Yousif Ahmed (Team Leader & Presenter – Project coordination and final presentation) 
+*  Shady Mohamed (Designer – UI/UX, Website, Posters) 
+*  Mohamed Khaled (Content Creator & Voice Over – Marketing content and audio narration) 
+ * Islam Ahmed (Marketing Research – Competitor analysis and market trends) 
+*  Mohamed Ashraf (Buyer Persona Development – Customer profiles and target audience) 
 
- Objective
-* Enhance Abo Gehad Store’s online presence, increase sales, and improve customer engagement.
+##Work Plan 
 
-Scope
+Research and Analysis 
+* Conduct a market study of local competitors and current trends. Identify strengths, weaknesses, opportunities, and threats (SWOT). Collect customer feedback. 
 
-* Social media optimization.
+* Audience Personas 
+ Develop detailed buyer personas representing housewives, newlyweds, students, and young professionals. Define their needs and preferences to guide marketing and product selection. 
 
-* Targeted ad campaigns.
+* Visual Identity 
+ Define colors, typography, and graphic elements. Ensure consistency across social media, packaging, and in-store branding. 
 
-* Product catalog management.
+* Logo Design 
+ Create and finalize a memorable logo representing household essentials. Apply across all platforms and print materials. 
 
-* Customer interaction and support system.
+* Main Designs 
+ Design store layout and digital interfaces including the website. Create marketing materials and banners applying UI/UX principles. 
 
- Deliverables
+* Poster Design 
+ Design promotional posters highlighting key products and offers to attract customers in-store and online. 
 
-* Optimized social media pages.
+* Complementary Products 
+ Design branded shopping bags, packaging, and stationery while maintaining visual consistency. 
 
-* Running ad campaigns with clear metrics.
+* Review and Finalization 
+ Review all designs and marketing materials with the team. Apply improvements and finalize all elements. 
 
-* Product listings online with updated info.
+##Final Presentation 
+ Prepare a presentation showcasing research, buyer personas, visual identity, designs, and KPIs. 
 
-* Monthly performance report.
+ Present outcomes to stakeholders or instructor. 
 
- Timeline
+##Roles and Responsibilities 
+ (Yousif Ahmed) Team Leader & Presenter – Coordinates team and delivers presentation 
+ (Shady Mohamed) Designer – UI/UX, Website, Posters 
+ (Mohamed Khaled) Content Creator & Voice Over – Marketing content and audio narration 
+ (Islam Ahmed) Marketing Research – Market analysis and trends 
+ (Mohamed Ashraf) Buyer Persona Development – Customer profiles and target audience 
 
-* Week 1: Audit current presence & plan strategy.
+##KPIs (Key Performance Indicators) 
+ Customer satisfaction ≥ 90% 
+ Growth in social media engagement and online presence 
+ Consistency in brand identity across all touchpoints 
+ Increase in in-store and online sales 
+ On-time completion of project milestones 
 
-* Week 2–3: Set up ad campaigns & optimize social media content.
+##Instructor 
+ , Safy El Din Ahmed 
 
-* Week 4: Monitor performance & adjust campaigns.
-
-Milestones
-
-* Completion of social media audit (End of Week 1).
-
-* Launch of first ad campaign (End of Week 2).
-
-* Performance review and optimization (End of Week 4).
-
-Resources
-
-* Social media platforms (Facebook, Instagram).
-
-* Budget for ads.
-
-* Team: Social media manager, designer, content creator.
-
-Risks & Mitigation
-
-* Low ad engagement → Adjust targeting & creative content.
-
-* Delayed content delivery → Prepare content in advance.
-
-## Team Roles
-
-Youssef Ahmed (Team Leader)
-
-* Oversees the entire project.
-
-* Coordinates tasks and team members.
-
-* Ensures deadlines and goals are met.
-
-Shady Mohamed (Social Media Manager)
-
-* Manages social media accounts.
-
-* Plans and runs ad campaigns.
-
-* Analyzes engagement and performance metrics.
-
-Islam Ahmed  (Designer + Photographer)
-
-* Creates visual content (images, graphics).
-
-* Takes product and promotional photos.
-
-* Ensures branding is consistent.
-
-Mohamed Mahmoud Saafan (Content Writer)
-
-* Writes product descriptions and posts.
-
-* Develops engaging content for campaigns.
-
-* Maintains brand voice in all communications.
-
-Mohamed Ashraf (Video Editor)
-
-* Edits promotional and product videos.
-
-* Adds effects, captions, and music.
-
-* Ensures video content is high-quality and engaging.
+ 
+##Project file
+https://alexuuni-my.sharepoint.com/:f:/g/personal/edu_yousefahmed243620_alexu_edu_eg/EkILDWYsF1RDtfsAQajK8ccBW-Y6jRWrkjyAt9leT_gyuA
